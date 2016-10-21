@@ -1,0 +1,8 @@
+D:\Projects\WMIManage\WmiAdmin\bin\Debug\Sample.WmiSample.App.exe
+D:\Projects\WMIManage\WmiAdmin\bin\Debug\Sample.WmiSample.App.pdb
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\WmiAdmin.csprojResolveAssemblyReference.cache
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\Sample.WmiSample.App.MainForm.resources
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\Sample.WmiSample.App.Properties.Resources.resources
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\WmiAdmin.csproj.GenerateResource.Cache
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\Sample.WmiSample.App.exe
+D:\Projects\WMIManage\WmiAdmin\obj\x86\Debug\Sample.WmiSample.App.pdb

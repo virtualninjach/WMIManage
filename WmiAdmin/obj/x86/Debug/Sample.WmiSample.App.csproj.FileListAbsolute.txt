@@ -1,0 +1,8 @@
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\bin\Debug\Sample.WmiSample.App.exe
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\bin\Debug\Sample.WmiSample.App.pdb
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.csprojResolveAssemblyReference.cache
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.MainForm.resources
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.Properties.Resources.resources
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.csproj.GenerateResource.Cache
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.exe
+D:\Projects\WMIManage\C#\Sample.WmiSample.App\obj\x86\Debug\Sample.WmiSample.App.pdb
